@@ -1,9 +1,7 @@
 # Continuous LexRank
 
 ## Overview
-LexRank: Graph-based Lexical Centrality as Salience in Text Summarization のうち, Continuous LexRankを実装しました.
-
-[元論文](https://arxiv.org/abs/1109.2128)
+LexRank: Graph-based Lexical Centrality as Salience in Text Summarization[URL](https://arxiv.org/abs/1109.2128) のうち, Continuous LexRankを実装しました.
 
 ## Requirement
 - macOS
