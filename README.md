@@ -28,4 +28,4 @@
 ## Author
 Twitter    : [@kazun6ri](https://twitter.com/kazun6ri)
 
-slideshape :  [KazunariHemmi](https://www.slideshare.net/KazunariHemmi)
+slideshare :  [KazunariHemmi](https://www.slideshare.net/KazunariHemmi)
