@@ -2,6 +2,7 @@
 
 ## Overview
 LexRank: Graph-based Lexical Centrality as Salience in Text Summarization のうち, Continuous LexRankを実装しました.
+
 [元論文](https://arxiv.org/abs/1109.2128)
 
 ## Requirement
@@ -11,3 +12,10 @@ LexRank: Graph-based Lexical Centrality as Salience in Text Summarization のう
 
 ## Usage
 `$./lexrank ファイル名 べき乗法の回数 テレポーテーションの確率`
+
+## Description
+- スパースな行列を疎行列として扱う
+
+- 式変形を行い, 大量のデータでも計算できるようにした
+
+- 隣接行列を計算する際にも式変形を行い，大量のデータでも計算できるようにした
