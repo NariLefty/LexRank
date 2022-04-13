@@ -9,7 +9,15 @@
 - C++ 12.0.5
 
 ## Usage
-`$./lexrank ファイル名 べき乗法の回数 テレポーテーションの確率`
+`$./lexrank 入力データのファイル名 べき乗法の回数 テレポーテーションの確率`
+
+入力データはtf-idfやpmi値を各要素ごとに求めたものを使用する．
+また，入力データのフォーマットは以下の通りである．
+`$file_id,element_id:value,element_id:value,element_id:value, .....`
+`$file_id,element_id:value,element_id:value,element_id:value, .....`
+`$file_id,element_id:value,element_id:value,element_id:value, .....`
+`$...`
+
 
 ## Description
 - スパースな行列を疎行列として扱う
